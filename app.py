@@ -12,3 +12,4 @@ else:
   result = 'NEGATIVE COMMENT'
 if st.button('Predict'):
   st.title(result)
+  
